@@ -1,0 +1,9 @@
+{
+  "name": "jquery-vulns",
+  "private": true,
+  "author": "Chris de Almeida",
+  "dependencies": {
+    "jquery@1.2.6": "npm:jquery@1.2.6",
+    "jquery@3.7.1": "npm:jquery@3.7.1"
+  }
+}
